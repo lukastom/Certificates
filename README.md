@@ -1,3 +1,3 @@
-# Certificats
+# Certificates
 
-My course certificats.
+My course certificates.
